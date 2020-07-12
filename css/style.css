@@ -35,7 +35,7 @@ h1, .title {
   padding: .25em;
   font-style: italic;
   /* text-shadow: -0.1em 0em #eb70aa, 0.1em 0em #70d2eb; */
-  text-shadow: -.1em 0.1em #eb70aa, -.1em -.1em #f8f68b, .1em -.1em #70d2eb;
+  text-shadow: -.05em 0.05em #eb70aa, -.05em -.05em #f8f68b, .05em -.05em #70d2eb;
 }
 
 .muted {
