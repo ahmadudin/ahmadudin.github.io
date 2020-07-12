@@ -6,7 +6,7 @@ body {
   max-width: 40rem;
   padding: 2rem;
   margin: auto;
-  background: #fafafa; 
+  background: #ece3e3; 
   overscroll-behavior-y: none;
 }
 
@@ -27,6 +27,16 @@ h2 {
 
 h3 {
   font-size: 1.1em; }
+
+h1, .title {
+  color: #3a2229;
+  font-size: 3em;;
+  /* background-color: #51728f; */
+  padding: .25em;
+  font-style: italic;
+  /* text-shadow: -0.1em 0em #eb70aa, 0.1em 0em #70d2eb; */
+  text-shadow: -.1em 0.1em #eb70aa, -.1em -.1em #f8f68b, .1em -.1em #70d2eb;
+}
 
 .muted {
   color: #aaa;
